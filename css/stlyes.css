@@ -230,7 +230,6 @@ img {
   padding: 0 2rem;
 }
 
-
 /*buttons*/
 .btn {
   display: inline-block;
@@ -247,27 +246,27 @@ img {
 }
 
 .btn:hover {
-	opacity: 0.9;
+  opacity: 0.9;
 }
 
 .btn-rounded {
-	border-radius: 5px;
+  border-radius: 5px;
 }
 
 .btn-xl {
-	font-size: 2rem;
-	padding: 1.5rem 2.1rem;
-	text-transform: uppercase;
+  font-size: 2rem;
+  padding: 1.5rem 2.1rem;
+  text-transform: uppercase;
 }
 
 .btn-lg {
-	font-size: 1rem;
-	padding: 0.8rem 1.3rem;
-	text-transform: uppercase;
+  font-size: 1rem;
+  padding: 0.8rem 1.3rem;
+  text-transform: uppercase;
 }
 
 .btn-icon {
-	margin-left: 1rem;
+  margin-left: 1rem;
 }
 
 .text-xl {
